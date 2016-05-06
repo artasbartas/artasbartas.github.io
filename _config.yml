@@ -9,7 +9,7 @@
 title: Your awesome title
 email: artas.bartas@gmail.com
 description: "hip hop, never stop"
-baseurl: "articles" # the subpath of your site, e.g. /blog
+baseurl: "/articles" # the subpath of your site, e.g. /blog
 url: "https://artasbartas.github.io/" # the base hostname & protocol for your site
 permalink: :title
 twitter_username: artasbartas
