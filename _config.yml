@@ -9,7 +9,7 @@
 title: The life and times of...
 email: artas.bartas@gmail.com
 description: "hip hop, never stop"
-baseurl: "/articles" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://artasbartas.github.io/" # the base hostname & protocol for your site
 enable_retina: false
 permalink: :title
