@@ -6,14 +6,26 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
+title: The life and times of...
 email: artas.bartas@gmail.com
 description: "hip hop, never stop"
 baseurl: "/articles" # the subpath of your site, e.g. /blog
 url: "https://artasbartas.github.io/" # the base hostname & protocol for your site
+enable_retina: false
 permalink: :title
 twitter_username: artasbartas
 github_username:  artasbartas
+nav_list:
+  Home : ['Home', '/', 'fa-home']
+  Home_Alt : ['Home Alt', '/home-alt', 'fa-home']
+  Home_Alt_2 : ['Home Alt 2', '/home-alt-2/', 'fa-home']
+  About : ['About', '/about', 'fa-anchor']
+  Contact : ['Contact', '/contact', 'fa-plane']
+  Author : ['Author', '/author/michelle', 'fa-user']
+single_footer: '<p>The writer community loves your content. Writer &copy; 2015 <a href="/">latest posts</a></p>'
+footer_links:
+    About: ['About', '/about']
+    Writer: ['Writer 2015', '/about']
 
 # Build settings
 markdown: kramdown
@@ -22,4 +34,7 @@ markdown: kramdown
 #  Write an awesome description for your new site here. You can edit this
 #  line in _config.yml. It will appear in your document head meta (for
 #  Google search results) and in your feed.xml site description.
+
+
+
 
