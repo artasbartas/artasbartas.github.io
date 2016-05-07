@@ -9,16 +9,14 @@
 title: The life and times of...
 email: artas.bartas@gmail.com
 
-description: "Repo description"
-baseurl: "/repo-name" # the subpath of your site, e.g. /blog
+description: "hip hop, never stop"
+baseurl: "" # the subpath of your site, e.g. /blog
 
 url: "https://artasbartas.github.io/" # the base hostname & protocol for your site
 enable_retina: false
 permalink: :title
 twitter_username: artasbartas
 github_username:  artasbartas
-
-include: ['_pages']
 
 nav_list:
   Home : ['Home', '/', 'fa-home']
