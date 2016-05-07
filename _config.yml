@@ -18,6 +18,8 @@ permalink: :title
 twitter_username: artasbartas
 github_username:  artasbartas
 
+include: ['_pages']
+
 nav_list:
   Home : ['Home', '/', 'fa-home']
   Home_Alt : ['Home Alt', '/home-alt', 'fa-home']
