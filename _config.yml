@@ -8,13 +8,16 @@
 # Site settings
 title: The life and times of...
 email: artas.bartas@gmail.com
-description: "hip hop, never stop"
-baseurl: "" # the subpath of your site, e.g. /blog
+
+description: "Repo description"
+baseurl: "/repo-name" # the subpath of your site, e.g. /blog
+
 url: "https://artasbartas.github.io/" # the base hostname & protocol for your site
 enable_retina: false
 permalink: :title
 twitter_username: artasbartas
 github_username:  artasbartas
+
 nav_list:
   Home : ['Home', '/', 'fa-home']
   Home_Alt : ['Home Alt', '/home-alt', 'fa-home']
@@ -34,7 +37,3 @@ markdown: kramdown
 #  Write an awesome description for your new site here. You can edit this
 #  line in _config.yml. It will appear in your document head meta (for
 #  Google search results) and in your feed.xml site description.
-
-
-
-
