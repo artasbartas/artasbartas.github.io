@@ -231,7 +231,7 @@ To get started, follow the installation instructions in the [Github repo](https:
 $ ./bin/phantomjs decktape.js [options] [command] <url> <filename>
 {% endhighlight %}
 
-By default, decktape uses the `automatic` command, which picks the plugin matching your presentation framework and produces a PDF file from the provided URL. If you'd rather capture the presentation as it unfolds one click at a time, use the generic command. Here is a more advanced example of using decktape to produce a PDF of selected slides in two different resolutions:
+By default, decktape uses the `automatic` command, which picks the plugin matching your presentation framework and produces a PDF file from the provided URL. If you'd rather capture the presentation as it unfolds one click at a time, use the `generic` command. Here is a more advanced example of using decktape to produce a PDF of selected slides in two different resolutions:
 
 {% highlight HTTP %}
 $ ./bin/phantomjs decktape.js --screenshots --screenshots-size=400x300 --screenshots-size=800x600 --slides 1,3,5 automatic http://example.com/slides/demo.html deck.pdf
@@ -335,4 +335,4 @@ Reveal.js allows you to execute some simple javascript code, which means that yo
 </section>
 {% endhighlight %}
 
-If you read all the way to this point, then nothing can stop you. Hope you will create only great presentations from now on. 
+If you read all the way to this point, then nothing can stop you. I hope you will create only great presentations from now on. 
