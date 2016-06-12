@@ -12,11 +12,11 @@ show_related_posts: true
 square_related: recommend-woods
 ---
 
-Working on presentations can be a huge time sink, especially if you care how your presentation looks like. Which is why the first time I came across the presentations by [David Khourshid](http://slides.com/davidkhourshid/deck-17#/), [Gregor Aisch](http://slides.com/drivenbydata/nicar16#/) or [Joan Leon](http://slides.com/joanleon/flexbox-webcat#/), I was flabbergasted. Not only did their decks look a-m-a-z-i-n-g and worked directly in the browser, but they also came with myriads of cool features like background videos, vertical slides, and interactive elements.
+Working on presentations can be a huge time sink, especially if you care about how your presentation looks like. Which is why the first time I came across the presentations by [David Khourshid](http://slides.com/davidkhourshid/deck-17#/), [Gregor Aisch](http://slides.com/drivenbydata/nicar16#/) or [Joan Leon](http://slides.com/joanleon/flexbox-webcat#/), I was flabbergasted. Not only did their decks look a-m-a-z-i-n-g and worked directly in the browser, but they also came with myriads of cool features like background videos, vertical slides, and interactive elements.
 
-It turns out that the three guys I mentioned as well as thousands of other developers, educators and journalists dumped their Powerpoints and Keynotes for the open-source HTML presentation framework [reveal.js](http://lab.hakim.se/reveal-js/#/). Invest a few days into picking up some basic coding skills and soon you will be able to churn out next-level decks. Heck, you can even skip the coding part and go straight for slides.com, a nifty online service built on top of the reveal.js library.
+It turns out that the three guys I mentioned as well as thousands of other developers, educators and journalists dumped their Powerpoints and Keynotes for the open-source HTML presentation framework [reveal.js](http://lab.hakim.se/reveal-js/#/). Invest a few days into picking up some coding skills like them and soon you will be able to churn out next-level decks. Heck, you can even skip the coding part and go straight for slides.com, a nifty online service built on top of the reveal.js library.
 
-In case you want to persevere and learn things by doing, I have put together this basic guide to help you master the essentials of working with the reveal.js. You would do yourself a huge favor by reading the Read Me manual, put together by the framework author [Hakim El Hattab](https://github.com/hakimel), but that is not strictly necessary. 
+In case you want to persevere and learn things by doing, I have put together this basic guide to help you master the essentials of working with the reveal.js. You would do yourself a huge favor by going through the Read Me manual put together by the framework author [Hakim El Hattab](https://github.com/hakimel), but that is not strictly necessary. 
 
 ## Getting started
 
